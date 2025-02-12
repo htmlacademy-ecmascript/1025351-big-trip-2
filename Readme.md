@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Danil Razumnyi](https://up.htmlacademy.ru/ecmascript-individual/2/user/1025351).
-* Наставник: `Неизвестно`.
+* Наставник: `Алексей Хапов`.
 
 ---
 
