@@ -1,4 +1,4 @@
-import { createElement } from "../render";
+import { createElement } from '../render';
 
 function createPointTemplate() {
   return (`            <li class="trip-events__item">
@@ -37,8 +37,8 @@ function createPointTemplate() {
                   <span class="visually-hidden">Open event</span>
                 </button>
               </div>
-            </li>`)
-};
+            </li>`);
+}
 
 export default class PointView {
   getTemplate() {
@@ -55,4 +55,4 @@ export default class PointView {
   removeElement() {
     this.element = null;
   }
-};
+}

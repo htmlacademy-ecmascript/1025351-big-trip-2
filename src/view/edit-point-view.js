@@ -1,4 +1,4 @@
-import { createElement } from "../render";
+import { createElement } from '../render';
 
 function createEditPointView() {
   return (`            <li class="trip-events__item">
@@ -155,8 +155,8 @@ function createEditPointView() {
                   </section>
                 </section>
               </form>
-            </li>`)
-};
+            </li>`);
+}
 
 export default class EditPointView {
   getTemplate() {
@@ -173,5 +173,5 @@ export default class EditPointView {
   removeElement() {
     this.element = null;
   }
-};
+}
 

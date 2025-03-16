@@ -162,8 +162,8 @@ function createAddPointTemplate() {
                   </section>
                 </section>
               </form>
-            </li>`)
-};
+            </li>`);
+}
 
 export default class AddPointView {
   getTemplate() {
@@ -180,4 +180,4 @@ export default class AddPointView {
   removeElement() {
     this.element = null;
   }
-};
+}
